@@ -1,5 +1,5 @@
 # Retail-Sales---Customer-Purchase-Predictions
-This is a random forest model built to predict customers purchasing behaviour of new customers, based on past purchase history of existing customers.
+This is a random forest model trained and tested based on past purchase history of existing customers and validating this model to predict purchasing behaviour of new customers.
 
 ## By Olaitan Suru
 
